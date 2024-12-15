@@ -1,0 +1,77 @@
+#Menu {
+    display: flex;
+    justify-content: space-between;
+    background-color: #242f39;
+    padding: 10px 400px 10px 400px;
+    align-items: center;
+
+    .Logo {
+        display: flex;
+
+        .LogoColor {
+            color: white;
+            font-size: 30px;
+            font-weight: 600;
+            letter-spacing: 2px;
+        }
+        .Logo1 {
+            color: aqua;
+        }
+
+        .Logo2 {
+            color: pink;
+        }
+
+        .Logo3 {
+            color: orange;
+        }
+
+        .Logo4 {
+            color: violet;
+        }
+
+        .Logo5 {
+            color: brown;
+        }
+
+        .Logo6 {
+            color: rgb(44, 180, 221);
+        }
+    }
+
+    .ContentMenu {
+        display: flex;
+        align-items: center;
+        color: white;
+        font-size: 15px;
+        margin: 0px 20px 0px 20px;
+
+        .TextContentMenu {
+            margin: 0px 5px 0px 5px;
+        }
+    }
+
+    .ContentMenu:hover {
+        cursor: pointer;
+    }
+
+    .MenuList {
+        display: flex;
+        align-items: center;
+
+        .MenuTitle {
+            display: flex;
+        }
+
+        .ActiveMenuTitle {
+            color: black;
+        }
+
+        .MenuContent {
+            margin: 18px 0px 0px 20px;
+            color: white;
+            font-size: 14px;
+            background-color: #2f566d;
+        }
+    }
+}

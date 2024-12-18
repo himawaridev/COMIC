@@ -1,0 +1,127 @@
+[
+  {
+    "title": "Thần Tử Hoang Cổ",
+    "author": "Vô Ưu 95",
+    "chuong": "470 chương"
+  },
+  {
+    "title": "Thần Võ Thiên Tôn",
+    "author": "Thục Kỷ",
+    "chuong": "275 chương"
+  },
+  {
+    "title": "Vũ Luyện Điên Phong (Võ Luyện Đỉnh Phong)",
+    "author": "Mạc Mặc",
+    "chuong": "4353 chương"
+  },
+  {
+    "title": "Đan Đại Chí Tôn",
+    "author": "SS Hà Thần",
+    "chuong": "2494 chương"
+  },
+  {
+    "title": "Cải Thiên Nghịch Đạo",
+    "author": "KK Cố Hương",
+    "chuong": "880 chương"
+  },
+  {
+    "title": "Bá Chủ Thiên Hạ",
+    "author": "Phong Thần",
+    "chuong": "661 chương"
+  },
+  {
+    "title": "Bị Ép Làm Hôn Phu Của Kiếm Thánh",
+    "author": "Đích Thủy",
+    "chuong": "569 chương"
+  },
+  {
+    "title": "Giang Long Chiến Thần",
+    "author": "Tran Linh",
+    "chuong": "461 chương"
+  },
+  {
+    "title": "Kì Tài Giáo Chủ",
+    "author": "Phong Thất Nguyệt",
+    "chuong": "1442 chương"
+  },
+  {
+    "title": "Bảy Vị Sư Phụ Đỉnh Phong (Đệ Nhất Thần Vương)",
+    "author": "Nhị Tiểu",
+    "chuong": "1421 chương"
+  },
+  {
+    "title": "Tuyệt Thế Cường Long",
+    "author": "Hoa Tiến Tửu",
+    "chuong": "1893 chương"
+  },
+  {
+    "title": "Thần Y Trọng Sinh",
+    "author": "SS Hà Thần",
+    "chuong": "1681 chương"
+  },
+  {
+    "title": "Thiên Cơ Điện",
+    "author": "Duyên Phận 0",
+    "chuong": "425 chương"
+  },
+  {
+    "title": "Thiên Đạo Hữu Khuyết",
+    "author": "Bông Lan",
+    "chuong": "295 chương"
+  },
+  {
+    "title": "Thái Cổ Thần Vương",
+    "author": "Tịnh Vô Ngân",
+    "chuong": "1232 chương"
+  },
+  {
+    "title": "Đại Sư Huynh Chỉ Biết Soi Gương Trang Điểm",
+    "author": "Cổ Mặc Mặc",
+    "chuong": "68 chương"
+  },
+  {
+    "title": "Con Đường Bá Chủ",
+    "author": "Akay Hau",
+    "chuong": "3008 chương"
+  },
+  {
+    "title": "Phong Thần Châu",
+    "author": "Oa Ngưu Cuồng Bôn",
+    "chuong": "10969 chương"
+  },
+  {
+    "title": "Độc Tôn Truyền Kỳ - Thanh Vân Môn",
+    "author": "Lâm Nhất",
+    "chuong": "4169 chương"
+  },
+  {
+    "title": "Xuyên Qua Làm Nhân Vật Quần Chúng, Vô Tình Dạy Một Đám Đồ Đệ Thành Thánh Nhân",
+    "author": "Nghịch Tử",
+    "chuong": "542 chương"
+  },
+  {
+    "title": "Ta Là Vua Giác Đấu",
+    "author": "Weekend Anh",
+    "chuong": "407 chương"
+  },
+  {
+    "title": "Ta Học Trảm Thần Ở Bệnh Viện Tâm Thần",
+    "author": "Vô Ưu 95",
+    "chuong": "67 chương"
+  },
+  {
+    "title": "Thiên Kim Giả Mang Toàn Tông Phi Thăng",
+    "author": "Chỉ Tiêm Hồng Thắng Nhiễu",
+    "chuong": "28 chương"
+  },
+  {
+    "title": "Hàn Thiên Ký",
+    "author": "Hắc Bạch Giả",
+    "chuong": "416 chương"
+  },
+  {
+    "title": "Nghe Nói Ta Là Sư Tôn Phản Diện Không Thể Cứu Rỗi",
+    "author": "Nguyệt (2k9)",
+    "chuong": "20 chương"
+  }
+]

@@ -6,6 +6,7 @@ import { UnorderedListOutlined, CaretDownOutlined, SettingOutlined } from "@ant-
 import Search from "@/ListContentMenu/Search";
 import ListDanhMuc from "@/ListContentMenu/ListDanhMuc";
 import ListTheLoai from "@/ListContentMenu/ListTheLoai";
+import Setting from "@/ListContentMenu/Setting"
 
 // Import scss:
 import "@/components/Menu.scss";
@@ -13,7 +14,7 @@ import "@/components/Menu.scss";
 interface ListMenu {
     id: number;
     name: string;
-    title: ReactNode;
+    title: ReactNode; // Component tương ứng cho từng mục
     component: ReactNode; // Component tương ứng cho từng mục
 }
 
@@ -74,18 +75,17 @@ const Menu: React.FC = () => {
                     <CaretDownOutlined />
                 </div>
             ),
-            component: <ListDanhMuc />,
+            component: <Setting />,
         },
     ];
 
     const RenderListMenu: React.FC = () => {
-        const [activeGame, setActiveGame] = useState<ListMenu>(listMenu[0]);
         return (
             <div className="MenuList">
                 {listMenu.map((item) => (
                     <div key={item.id} className="MenuItem">
                         <div
-                            className={`MenuTitle ${activeGame.name === item.name ? 'ActiveMenuTitle' : ''}`}
+                            className="MenuTitle"
                             onClick={() => toggleMenu(item.id)}
                         >
                             {item.title}
